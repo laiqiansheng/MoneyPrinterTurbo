@@ -2,10 +2,10 @@
 <h1 align="center">MoneyPrinterTurbo 💸</h1>
 
 <p align="center">
-  <a href="https://github.com/harry0703/MoneyPrinterTurbo/stargazers"><img src="https://img.shields.io/github/stars/harry0703/MoneyPrinterTurbo.svg?style=for-the-badge" alt="Stargazers"></a>
-  <a href="https://github.com/harry0703/MoneyPrinterTurbo/issues"><img src="https://img.shields.io/github/issues/harry0703/MoneyPrinterTurbo.svg?style=for-the-badge" alt="Issues"></a>
-  <a href="https://github.com/harry0703/MoneyPrinterTurbo/network/members"><img src="https://img.shields.io/github/forks/harry0703/MoneyPrinterTurbo.svg?style=for-the-badge" alt="Forks"></a>
-  <a href="https://github.com/harry0703/MoneyPrinterTurbo/blob/main/LICENSE"><img src="https://img.shields.io/github/license/harry0703/MoneyPrinterTurbo.svg?style=for-the-badge" alt="License"></a>
+  <a href="https://github.com/laiqiansheng/MoneyPrinterTurbo/stargazers"><img src="https://img.shields.io/github/stars/laiqiansheng/MoneyPrinterTurbo.svg?style=for-the-badge" alt="Stargazers"></a>
+  <a href="https://github.com/laiqiansheng/MoneyPrinterTurbo/issues"><img src="https://img.shields.io/github/issues/laiqiansheng/MoneyPrinterTurbo.svg?style=for-the-badge" alt="Issues"></a>
+  <a href="https://github.com/laiqiansheng/MoneyPrinterTurbo/network/members"><img src="https://img.shields.io/github/forks/laiqiansheng/MoneyPrinterTurbo.svg?style=for-the-badge" alt="Forks"></a>
+  <a href="https://github.com/laiqiansheng/MoneyPrinterTurbo/blob/main/LICENSE"><img src="https://img.shields.io/github/license/laiqiansheng/MoneyPrinterTurbo.svg?style=for-the-badge" alt="License"></a>
 </p>
 <br>
 <h3>简体中文 | <a href="README-en.md">English</a></h3>
