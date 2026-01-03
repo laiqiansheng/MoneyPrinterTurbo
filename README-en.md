@@ -2,10 +2,10 @@
 <h1 align="center">MoneyPrinterTurbo 💸</h1>
 
 <p align="center">
-  <a href="https://github.com/harry0703/MoneyPrinterTurbo/stargazers"><img src="https://img.shields.io/github/stars/harry0703/MoneyPrinterTurbo.svg?style=for-the-badge" alt="Stargazers"></a>
-  <a href="https://github.com/harry0703/MoneyPrinterTurbo/issues"><img src="https://img.shields.io/github/issues/harry0703/MoneyPrinterTurbo.svg?style=for-the-badge" alt="Issues"></a>
-  <a href="https://github.com/harry0703/MoneyPrinterTurbo/network/members"><img src="https://img.shields.io/github/forks/harry0703/MoneyPrinterTurbo.svg?style=for-the-badge" alt="Forks"></a>
-  <a href="https://github.com/harry0703/MoneyPrinterTurbo/blob/main/LICENSE"><img src="https://img.shields.io/github/license/harry0703/MoneyPrinterTurbo.svg?style=for-the-badge" alt="License"></a>
+  <a href="https://github.com/laiqiansheng/MoneyPrinterTurbo/stargazers"><img src="https://img.shields.io/github/stars/laiqiansheng/MoneyPrinterTurbo.svg?style=for-the-badge" alt="Stargazers"></a>
+  <a href="https://github.com/laiqiansheng/MoneyPrinterTurbo/issues"><img src="https://img.shields.io/github/issues/laiqiansheng/MoneyPrinterTurbo.svg?style=for-the-badge" alt="Issues"></a>
+  <a href="https://github.com/laiqiansheng/MoneyPrinterTurbo/network/members"><img src="https://img.shields.io/github/forks/laiqiansheng/MoneyPrinterTurbo.svg?style=for-the-badge" alt="Forks"></a>
+  <a href="https://github.com/laiqiansheng/MoneyPrinterTurbo/blob/main/LICENSE"><img src="https://img.shields.io/github/license/laiqiansheng/MoneyPrinterTurbo.svg?style=for-the-badge" alt="License"></a>
 </p>
 
 <h3>English | <a href="README.md">简体中文</a></h3>
@@ -90,8 +90,8 @@ Picwish focuses on the **image processing field**, providing a rich set of **ima
 </thead>
 <tbody>
 <tr>
-<td align="center"><video src="https://github.com/harry0703/MoneyPrinterTurbo/assets/4928832/a84d33d5-27a2-4aba-8fd0-9fb2bd91c6a6"></video></td>
-<td align="center"><video src="https://github.com/harry0703/MoneyPrinterTurbo/assets/4928832/112c9564-d52b-4472-99ad-970b75f66476"></video></td>
+<td align="center"><video src="https://github.com/laiqiansheng/MoneyPrinterTurbo/assets/4928832/a84d33d5-27a2-4aba-8fd0-9fb2bd91c6a6"></video></td>
+<td align="center"><video src="https://github.com/laiqiansheng/MoneyPrinterTurbo/assets/4928832/112c9564-d52b-4472-99ad-970b75f66476"></video></td>
 </tr>
 </tbody>
 </table>
@@ -107,8 +107,8 @@ Picwish focuses on the **image processing field**, providing a rich set of **ima
 </thead>
 <tbody>
 <tr>
-<td align="center"><video src="https://github.com/harry0703/MoneyPrinterTurbo/assets/4928832/346ebb15-c55f-47a9-a653-114f08bb8073"></video></td>
-<td align="center"><video src="https://github.com/harry0703/MoneyPrinterTurbo/assets/4928832/271f2fae-8283-44a0-8aa0-0ed8f9a6fa87"></video></td>
+<td align="center"><video src="https://github.com/laiqiansheng/MoneyPrinterTurbo/assets/4928832/346ebb15-c55f-47a9-a653-114f08bb8073"></video></td>
+<td align="center"><video src="https://github.com/laiqiansheng/MoneyPrinterTurbo/assets/4928832/271f2fae-8283-44a0-8aa0-0ed8f9a6fa87"></video></td>
 </tr>
 </tbody>
 </table>
@@ -123,7 +123,7 @@ Picwish focuses on the **image processing field**, providing a rich set of **ima
 ### Run in Google Colab 
 Want to try MoneyPrinterTurbo without setting up a local environment? Run it directly in Google Colab!
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/harry0703/MoneyPrinterTurbo/blob/main/docs/MoneyPrinterTurbo.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/laiqiansheng/MoneyPrinterTurbo/blob/main/docs/MoneyPrinterTurbo.ipynb)
 
 
 ### Windows
@@ -145,7 +145,7 @@ One-click startup packages have not been created yet. See the **Installation & D
 #### ① Clone the Project
 
 ```shell
-git clone https://github.com/harry0703/MoneyPrinterTurbo.git
+git clone https://github.com/laiqiansheng/MoneyPrinterTurbo.git
 ```
 
 #### ② Modify the Configuration File
@@ -186,7 +186,7 @@ Open your browser and visit http://0.0.0.0:8080/docs Or http://0.0.0.0:8080/redo
 It is recommended to create a Python virtual environment using [conda](https://conda.io/projects/conda/en/latest/user-guide/install/index.html)
 
 ```shell
-git clone https://github.com/harry0703/MoneyPrinterTurbo.git
+git clone https://github.com/laiqiansheng/MoneyPrinterTurbo.git
 cd MoneyPrinterTurbo
 conda create -n MoneyPrinterTurbo python=3.11
 conda activate MoneyPrinterTurbo
@@ -326,13 +326,13 @@ ffmpeg_path = "C:\\Users\\harry\\Downloads\\ffmpeg.exe"
 
 ### ❓ImageMagick is not installed on your computer
 
-[issue 33](https://github.com/harry0703/MoneyPrinterTurbo/issues/33)
+[issue 33](https://github.com/laiqiansheng/MoneyPrinterTurbo/issues/33)
 
 1. Follow the `example configuration` provided `download address` to
    install https://imagemagick.org/archive/binaries/ImageMagick-7.1.1-30-Q16-x64-static.exe, using the static library
 2. Do not install in a path with Chinese characters to avoid unpredictable issues
 
-[issue 54](https://github.com/harry0703/MoneyPrinterTurbo/issues/54#issuecomment-2017842022)
+[issue 54](https://github.com/laiqiansheng/MoneyPrinterTurbo/issues/54#issuecomment-2017842022)
 
 For Linux systems, you can manually install it, refer to https://cn.linux-console.net/?p=16978
 
@@ -377,8 +377,8 @@ Solution: [Click to see how to manually download the model from netdisk](#subtit
 
 ## Feedback & Suggestions 📢
 
-- You can submit an [issue](https://github.com/harry0703/MoneyPrinterTurbo/issues) or
-  a [pull request](https://github.com/harry0703/MoneyPrinterTurbo/pulls).
+- You can submit an [issue](https://github.com/laiqiansheng/MoneyPrinterTurbo/issues) or
+  a [pull request](https://github.com/laiqiansheng/MoneyPrinterTurbo/pulls).
 
 ## License 📝
 
@@ -386,4 +386,4 @@ Click to view the [`LICENSE`](LICENSE) file
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=harry0703/MoneyPrinterTurbo&type=Date)](https://star-history.com/#harry0703/MoneyPrinterTurbo&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=laiqiansheng/MoneyPrinterTurbo&type=Date)](https://star-history.com/#laiqiansheng/MoneyPrinterTurbo&Date)
