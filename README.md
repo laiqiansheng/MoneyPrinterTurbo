@@ -86,9 +86,9 @@
 </thead>
 <tbody>
 <tr>
-<td align="center"><video src="https://github.com/harry0703/MoneyPrinterTurbo/assets/4928832/a84d33d5-27a2-4aba-8fd0-9fb2bd91c6a6"></video></td>
-<td align="center"><video src="https://github.com/harry0703/MoneyPrinterTurbo/assets/4928832/af2f3b0b-002e-49fe-b161-18ba91c055e8"></video></td>
-<td align="center"><video src="https://github.com/harry0703/MoneyPrinterTurbo/assets/4928832/112c9564-d52b-4472-99ad-970b75f66476"></video></td>
+<td align="center"><video src="https://github.com/laiqiansheng/MoneyPrinterTurbo/assets/4928832/a84d33d5-27a2-4aba-8fd0-9fb2bd91c6a6"></video></td>
+<td align="center"><video src="https://github.com/laiqiansheng/MoneyPrinterTurbo/assets/4928832/af2f3b0b-002e-49fe-b161-18ba91c055e8"></video></td>
+<td align="center"><video src="https://github.com/laiqiansheng/MoneyPrinterTurbo/assets/4928832/112c9564-d52b-4472-99ad-970b75f66476"></video></td>
 </tr>
 </tbody>
 </table>
@@ -104,8 +104,8 @@
 </thead>
 <tbody>
 <tr>
-<td align="center"><video src="https://github.com/harry0703/MoneyPrinterTurbo/assets/4928832/346ebb15-c55f-47a9-a653-114f08bb8073"></video></td>
-<td align="center"><video src="https://github.com/harry0703/MoneyPrinterTurbo/assets/4928832/271f2fae-8283-44a0-8aa0-0ed8f9a6fa87"></video></td>
+<td align="center"><video src="https://github.com/laiqiansheng/MoneyPrinterTurbo/assets/4928832/346ebb15-c55f-47a9-a653-114f08bb8073"></video></td>
+<td align="center"><video src="https://github.com/laiqiansheng/MoneyPrinterTurbo/assets/4928832/271f2fae-8283-44a0-8aa0-0ed8f9a6fa87"></video></td>
 </tr>
 </tbody>
 </table>
@@ -121,7 +121,7 @@
 ### 在 Google Colab 中运行
 免去本地环境配置，点击直接在 Google Colab 中快速体验 MoneyPrinterTurbo
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/harry0703/MoneyPrinterTurbo/blob/main/docs/MoneyPrinterTurbo.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/laiqiansheng/MoneyPrinterTurbo/blob/main/docs/MoneyPrinterTurbo.ipynb)
 
 
 ### Windows一键启动包
@@ -145,7 +145,7 @@
 #### ① 克隆代码
 
 ```shell
-git clone https://github.com/harry0703/MoneyPrinterTurbo.git
+git clone https://github.com/laiqiansheng/MoneyPrinterTurbo.git
 ```
 
 #### ② 修改配置文件（可选，建议启动后也可以在 WebUI 里面配置）
@@ -192,7 +192,7 @@ docker-compose up
 建议使用 [conda](https://conda.io/projects/conda/en/latest/user-guide/install/index.html) 创建 python 虚拟环境
 
 ```shell
-git clone https://github.com/harry0703/MoneyPrinterTurbo.git
+git clone https://github.com/laiqiansheng/MoneyPrinterTurbo.git
 cd MoneyPrinterTurbo
 conda create -n MoneyPrinterTurbo python=3.11
 conda activate MoneyPrinterTurbo
@@ -357,8 +357,8 @@ Trying to load the model directly from the local cache, if it exists.
 
 ## 反馈建议 📢
 
-- 可以提交 [issue](https://github.com/harry0703/MoneyPrinterTurbo/issues)
-  或者 [pull request](https://github.com/harry0703/MoneyPrinterTurbo/pulls)。
+- 可以提交 [issue](https://github.com/laiqiansheng/MoneyPrinterTurbo/issues)
+  或者 [pull request](https://github.com/laiqiansheng/MoneyPrinterTurbo/pulls)。
 
 ## 许可证 📝
 
@@ -366,4 +366,4 @@ Trying to load the model directly from the local cache, if it exists.
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=harry0703/MoneyPrinterTurbo&type=Date)](https://star-history.com/#harry0703/MoneyPrinterTurbo&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=laiqiansheng/MoneyPrinterTurbo&type=Date)](https://star-history.com/#laiqiansheng/MoneyPrinterTurbo&Date)
